@@ -6,24 +6,29 @@ This README follows the instructions from [Github](https://docs.github.com/en/re
 
 ## About this project
 
-...
+This project focus on solving statistical problems using Python. This subdirectory includes:
 
-This subdirectory includes:
-
-- problems.ipynb, a Jupyter Notebook that presents the solutions to 4 problems;
-- the requirements.txt file, shows the libraries and packages needed to run Python code.
+- [problems.ipynb](https://github.com/FatimaBOliveira/applied-statistics-assessment/blob/main/problems.ipynb), a Jupyter Notebook that presents detailed solutions to 4 statistical problems:
+    1. Extending the Lady Tasting Tea;
+    2. Normal Distribution;
+    3. t-Tests;
+    4. ANOVA;
+- the [requirements.txt](https://github.com/FatimaBOliveira/applied-statistics-assessment/blob/main/requirements.txt) file, shows the libraries and packages needed to run Python code.
 
 The Python code used follows the [PEP 8](https://realpython.com/python-pep8/) coding style as standard.
 
-The main resources for this project are based on the lectures given, web searches, and ...
+The main resources for this project are based on the lectures given, web searches, and ChatGPT.
 
 ## Purpose of this project
 
 The main objectives of this work are:
--
--
 
-This assessments were very important for me to develop ... 
+- Explore the different statistical tests available through documentation, to understand when and how these should be used in the field;
+- Analyse the data and resolve statistical problems with Python packages;
+- Generate plots that support the analysis and make the results easier to understand;
+- Interpret the problems and make meaningful insights with the results obtained.
+
+These assessments were very important for me as a Data Analyst to put into practice the contents learned in class, develop critical thinking in statistical problems and to understand what is being done through the Python packages and functions.
 
 ## Getting Started
 
