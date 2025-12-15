@@ -11,9 +11,13 @@ This README follows the instructions from [Github](https://docs.github.com/en/re
 This project focuses on solving statistical problems using Python. This subdirectory includes:
 
 - [problems.ipynb](https://github.com/FatimaBOliveira/applied-statistics-assessment/blob/main/problems.ipynb), a Jupyter Notebook that presents detailed solutions to 4 statistical problems:
+
     **1. Extending the Lady Tasting Tea** - probability analysis of random guessing in an extended 12-cup experiment;
+
     **2. Normal Distribution** - simulation comparing sample (ddof=1) and population (ddof=0) standard deviation estimators for normally distributed data.;
+
     **3. t-Tests** - analysing how type II error rates change with increasing mean differences in two-sample t-tests;
+    
     **4. ANOVA** - analysing group mean differences using one-way ANOVA versus multiple t-tests.
 
 - The [requirements.txt](https://github.com/FatimaBOliveira/applied-statistics-assessment/blob/main/requirements.txt) file, shows the libraries and packages needed to run Python code.
